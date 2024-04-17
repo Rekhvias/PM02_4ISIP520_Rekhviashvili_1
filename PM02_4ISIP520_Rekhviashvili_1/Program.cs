@@ -48,7 +48,7 @@ class Program
     {
         int sum1 = 0;
         int sum2 = 0;
-        int[] supply = { 20, 45, 24, 31,30 };
+        int[] supply = { 20, 45, 24, 31};
         int[] demand = { 65, 44, 41 };
         int[][] costs = new int[][]
         {
